@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afonsofm07
+- 👋 Hi, I am Afonso
 - 👀 I’m interested in Computers.
 - 🌱 I’m currently learning JavaScript and Python.
 - 💞️ I’m looking to collaborate on nothing.
